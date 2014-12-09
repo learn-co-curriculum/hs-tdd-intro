@@ -4,7 +4,7 @@ type: intro
 ---
 ### Unit Goals
 * Explain **what Test Driven Development is** and why it's an important development tool
-* Use TDD to **test code to prevent bugs** in your code
+* Use TDD to **test code and prevent bugs** in your code
 
 ---
 ## Take Your Code For A Test Drive
