@@ -1,7 +1,4 @@
----
-tags: intro, tdd, kids
-type: intro
----
+
 ### Students Will Be Able To...
 * Explain **what Test Driven Development is** and why it's an important development tool
 * Use TDD to **test code and prevent bugs** in your code
